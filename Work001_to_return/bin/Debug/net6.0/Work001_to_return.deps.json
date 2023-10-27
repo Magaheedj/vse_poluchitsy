@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Work001_to_return/1.0.0": {
+        "runtime": {
+          "Work001_to_return.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work001_to_return/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

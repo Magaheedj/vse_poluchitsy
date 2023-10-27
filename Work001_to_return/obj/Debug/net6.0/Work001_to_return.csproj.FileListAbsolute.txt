@@ -1,0 +1,15 @@
+D:\C#the_path_of_the_mchte\Work001_to_return\bin\Debug\net6.0\Work001_to_return.exe
+D:\C#the_path_of_the_mchte\Work001_to_return\bin\Debug\net6.0\Work001_to_return.deps.json
+D:\C#the_path_of_the_mchte\Work001_to_return\bin\Debug\net6.0\Work001_to_return.runtimeconfig.json
+D:\C#the_path_of_the_mchte\Work001_to_return\bin\Debug\net6.0\Work001_to_return.dll
+D:\C#the_path_of_the_mchte\Work001_to_return\bin\Debug\net6.0\Work001_to_return.pdb
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.csproj.AssemblyReference.cache
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.AssemblyInfoInputs.cache
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.AssemblyInfo.cs
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.csproj.CoreCompileInputs.cache
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.dll
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\refint\Work001_to_return.dll
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.pdb
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\Work001_to_return.genruntimeconfig.cache
+D:\C#the_path_of_the_mchte\Work001_to_return\obj\Debug\net6.0\ref\Work001_to_return.dll
